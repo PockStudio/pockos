@@ -5,18 +5,18 @@
 ## Introduction
 PockOS is a unique operating system designed to blend the nostalgia of classic gaming devices with modern software features. It offers a complete OS experience on dedicated hardware, inspired by the Game Boy Advance SP and iPod interfaces.
 
-## Key Features
+<!-- ## Key Features
 - **Game Boy Advance SP-inspired UI**: A customizable user interface that provides a smooth, nostalgic experience.
 - **Joystick Controls**: Multiple input modes for versatile gaming control.
 - **Built-in Apps**: Includes a terminal emulator and AI apps to enhance the OS experience.
 - **Native Games**: Support for installing and running native Java-based games.
 
 ## PockOS Simulator
-The PockOS Simulator allows users to preview the OS on iOS and Android devices, providing a full experience of its features before purchasing the handheld device.
+The PockOS Simulator allows users to preview the OS on iOS and Android devices, providing a full experience of its features before purchasing the handheld device. -->
 
-## Simulator Features
+<!-- ## Simulator Features
 - **App Preview**: Preview native apps and games running on the PockOS.
-- **Customization**: Customize the PockOS environment to match your preferences.
+- **Customization**: Customize the PockOS environment to match your preferences. -->
 
 ## Conclusion
 PockOS combines retro aesthetics with modern features, allowing users to enjoy native apps, games, and an intuitive interface. The simulator app provides a way for developers to create and test apps, ensuring they know exactly what to expect from the PockOS experience.
