@@ -1,4 +1,4 @@
-![PockOS Thumbnail](path/to/thumbnail.jpg)
+![PockOS Thumbnail](img/thumbnail.jpg)
 
 # PockOS Public Documentation
 
