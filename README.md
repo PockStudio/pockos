@@ -1,4 +1,4 @@
-![PockOS Thumbnail]([./img/thumbnail.jpg](https://github.com/PockStudio/pockos/blob/970ceef8d662ac5543aacbf5b67c578f51ee4186/img/thumbnail.png))
+![PockOS Thumbnail]((https://github.com/PockStudio/pockos/blob/970ceef8d662ac5543aacbf5b67c578f51ee4186/img/thumbnail.png)
 
 # PockOS Public Documentation
 
