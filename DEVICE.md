@@ -65,7 +65,7 @@ This design freedom lets Pock deliver performance and durability beyond typical 
 
 - Joystick-first interface with multiple input modes
 - No touchscreen — full focus on physical control and feedback
-- Cross-platform wireless sharing via Wi-Fi or Pock MagSafe cable
+- Cross-platform wireless sharing via Wi-Fi or Pock `MagSafe` cable
 
 ---
 
