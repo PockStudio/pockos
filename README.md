@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The **Pock Device** is a new class of portable hardware powered by **PockOS** (Personal Open Computing Kernel), your pocket OS, a terminal-first operating system designed from the ground up for performance, utility, and full user control. This is not a trend, not a gimmick, not a minimal smartphone, and not a repackaged AI assistant.
+The **Pock Device** is a new class of portable hardware powered by **PockOS** (Personal Open Computing Kernel), your pocket, a terminal-first operating system designed from the ground up for performance, utility, and full user control. This is not a trend, not a gimmick, not a minimal smartphone, and not a repackaged AI assistant.
 
 **Pock is not a phone. It's not a gaming console. It's not a retro clone.**  
 It is a purpose-built tool — combining power, openness, and versatility — to redefine what a truly personal computing device can be.
