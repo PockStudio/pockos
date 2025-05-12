@@ -1,129 +1,63 @@
-# Pock Device & PockOS
 ![PockOS Thumbnail](./img/Pro.png)
 
-## Introduction
+# Pock / PockOS
 
-The **Pock Device** is a new class of portable hardware powered by **PockOS** (Personal Open Computing Kernel), your pocket, a terminal-first operating system designed from the ground up for performance, utility, and full user control. This is not a trend, not a gimmick, not a minimal smartphone, and not a repackaged AI assistant.
+Pock is a platform currently under development by a single creator.  
+It is designed to create a modern, unified environment for powering a wide range of devices — including smartphones, personal computers, gaming PCs, gaming consoles, and more.
 
-**Pock is not a phone. It's not a gaming console. It's not a retro clone.**  
-It is a purpose-built tool — combining power, openness, and versatility — to redefine what a truly personal computing device can be.
-
----
-
-## What Pock is Not
-
-- Not a smartphone — There’s no bloat, no app store lock-in, and no need for distractions.
-- Not a Flipper Zero clone — This is not just a hacking gadget. It's a full OS and computing environment.
-- Not a dumb phone — It’s designed to be smart where it matters, giving you tools, not restrictions.
-- Not an AI gadget — This is not a consumer assistant like the Rabbit R1 or Humane AI Pin. Pock is not trying to guess your needs. It lets *you* build, install, and control your environment.
-- Not a trend — Pock is built to last, evolve, and empower serious users over time.
+PockOS is the secure operating system built using Pock. It focuses on enabling a single codebase to run consistently across all devices, including the web, while maintaining pixel-perfect precision.
 
 ---
 
-## What Pock Is
+## About Pock
 
-- A high-performance terminal-first computing device  
-- An always-ready offline tool for developers, creators, tinkerers, and technologists
-- A portable OS with full filesystem access, local app storage, and system-level configurability
-- A personal assistant you control — from language translation to offline AI models and productivity tools
-- A media player, game device, translator, and portable server, all in one rugged and compact design
-- A software-first product, driven by the custom-built PockOS, not dependent on third-party services or walled ecosystems
-- An open app store available for developers to build and distribute their own apps, fostering a community-driven ecosystem
+- **One Codebase Across All Platforms**  
+  Develop once and deploy across phones, laptops, consoles, and web browsers without compromise.
 
----
+- **Pixel-Perfect Design**  
+  PockOS guarantees consistent UI and UX across all screen sizes and platforms, including web environments.
 
-## Indie Project Notice
+- **Designed for a Full Ecosystem**  
+  Pock is built to power a complete device lineup, including personal devices, professional computers, and entertainment systems.
 
-Pock is an **indie hardware and software project**.  
-This means:
+- **Integrated Developer Tools**  
+  Pock includes:
+  - **Pock Simulator**: A real-time simulator for efficient application and system testing.
+  - **PockSDK**: An open-source toolkit that combines coding and visual design into a single, seamless workflow, inspired by Xcode, VSCode, and Figma.
 
-- **Physical devices are limited** and built for people who truly want them — not for hype or popularity.
-- If you're here to follow a trend or try the “next cool gadget,” this isn't for you.
-- Pock is for people who *already know* they want something different.
+- **Security and Stability Focus**  
+  PockOS is a closed-source system designed to prioritize device security, system integrity, and stability. Unauthorized modifications and system failures are actively prevented.
 
 ---
 
-## Try Before You Buy
+## Open Source Policy
 
-For those who want to experience what PockOS is like, we provide the **PockOS Simulator**, available for both **iOS** and **Android**.
-
-- Simulates basic PockOS features
-- Great for testing your workflow or seeing if it fits your use-case
-- Meant for trial only and also for app development and testing
-- Meant for trial only — full features require the physical device
+- **PockOS and Pock Core System**: Closed-source to ensure maximum security and protect system integrity.
+- **PockSDK**: Open-source to empower developers with the ability to create applications, extensions, and tools without compromising the core system.
 
 ---
 
-## Hardware Overview
+## Project Status
 
-- **Display**: 415×550 resolution (LCD/OLED), 90Hz refresh, P3 wide color, HDR-ready
-- **Battery**: 5000mAh lithium-polymer, 30W fast charging
-- **Storage**:
-  - Basic: 256GB UFS 3.1  
-  - Pro: 1TB UFS 3.1  
-- **RAM**:
-  - Basic: 8GB LPDDR5  
-  - Pro: Up to 16GB LPDDR5X  
-- **Connectivity**: Wi-Fi, Bluetooth, USB-C, optional cellular data, Pock MagSafe support
-- **Controls**: Joystick + A/B/-/+ and power button only
+Pock and PockOS are currently in active development by a solo developer.  
+The platform is experimental and under continuous improvement. Features, structures, and policies may evolve over time.
 
 ---
 
-## Limitations and Design Constraints
+## Vision
 
-The Pock Device does not feature a touchscreen. All interaction is done via a joystick and physical buttons. This is intentional.
+Pock and PockOS aim to:
 
-- It is designed for **focus**, not consumption.
-- It is **minimal by choice**, prioritizing control and durability over touch-driven UI complexity.
-- It is **powerful**, but **unprivileged by default** — users gain root-level access when they choose, not when vendors allow it.
-
-These constraints are not shortcomings — they define a **new category** of device: powerful, portable, personal, programmable, and distraction-free.
-
----
-
-## PockOS Features
-
-- Full terminal environment (Unix-like)
-- App and game installation from trusted open sources
-- File system navigation with local storage
-- Configurable UI and runtime behavior
-- Offline translator, media player, and scripting capabilities
-- Wireless file sharing and device-to-device sync
-- Custom shell and user profile system
-- Support for JAR files, retro games, local AI apps, and more
+- Simplify the development of secure, high-quality applications and systems across a wide range of devices.
+- Guarantee pixel-perfect consistency between native platforms and web.
+- Provide a secure, stable operating system environment optimized for modern devices.
+- Empower developers with powerful, integrated tools that streamline both design and development workflows.
 
 ---
 
-## Target Users
+## License
 
-- Developers who want a portable dev station without distractions
-- Tinkerers and technologists who want full access to their device
-- Privacy-conscious users who don’t want always-on, always-watching systems
-- Creators and travelers who want a reliable tool for media, productivity, or translation on the go
+- **PockOS and Pock Core**: All rights reserved.  
+- **PockSDK**: Open-source license (specific license details to be announced).
 
 ---
-
-## Philosophy
-
-Pock is a platform for those who want to build, break, explore, and own their experience. We don’t believe in feeding users controlled environments, dependency on the cloud, or limited-purpose devices. We believe in tools that last, improve, and evolve — controlled by you, not by trends.
-
----
-
-## Learn More
-
-<!-- Website: [coming soon]  
-Docs: [coming soon]  
-OS Repo: [coming soon]  
-Community: [coming soon] -->
-
-Pock is a platform for those who want to build, break, explore, and own their experience. We don’t believe in feeding users controlled environments, dependency on the cloud, or limited-purpose devices. We believe in tools that last, improve, and evolve — controlled by you, not by trends.
-
----
-
-<!-- 
-## Learn More
-
-Website: [coming soon]  
-Docs: [coming soon]  
-OS Repo: [coming soon]  
-Community: [coming soon] -->
